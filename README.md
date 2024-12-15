@@ -1,5 +1,6 @@
 
- ![Uploading 4494406b0e685995eaeb744e1ff0919c.gif…]()
+   ![4494406b0e685995eaeb744e1ff0919c](https://github.com/user-attachments/assets/a7be4b65-55e7-4e2a-9e9b-880a106a4a6b)
+
 
 <h1 align="center">Hi 👋, I'm Şeyma Nur Bakla</h1>
 <h3 align="center"> I'm a Management Information Systems student passionate about Machine Learning and Data Science. I'm currently expanding my skills and working on exciting projects in these fields!</h3>
