@@ -1,5 +1,6 @@
 
-   ![4494406b0e685995eaeb744e1ff0919c](https://github.com/user-attachments/assets/a7be4b65-55e7-4e2a-9e9b-880a106a4a6b)
+![216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193](https://github.com/user-attachments/assets/57a9069f-9d19-49c8-bef4-ca81f5078ffc)
+
 
 
 <h1 align="center">Hi 👋, I'm Şeyma Nur Bakla</h1>
