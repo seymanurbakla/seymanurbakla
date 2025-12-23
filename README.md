@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Şeyma Nur Bakla</h1>
-<h3 align="center"> I'm a Management Information Systems student.</h3>
+<h3 align="center"> I’m a senior Management Information Systems student. </h3>
 
 
 •⁠  ⁠🌱 I’m currently learning *Machine Learning*
