@@ -8,8 +8,6 @@
 <h3 align="center"> I’m a senior Management Information Systems student. </h3>
 
 
-•⁠  ⁠🌱 I’m currently learning *Machine Learning*
-
 •⁠  ⁠💬 Ask me about *Machine Learning, Data Science, Computer Vision, Python Programming*
 
 •⁠  ⁠📫 How to reach me *seymanurbaklaa@gmail.com*
